@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @fedordmitreo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Fedor (@fedordmitreo)
 
-<!---
-fedordmitreo/fedordmitreo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm interested in programming, electronics, and DIY projects  
+- 🌱 Currently learning Python, microcontrollers, and circuit design  
+- 💞️ Looking to collaborate on open-source projects related to embedded systems, automation, and robotics  
+- 📫 How to reach me: [Email](mailto:fedordmitreo@gmail.com)  
+- 😄 Pronouns: he/him   
+
+> 🛠️ I love building things, writing code, and learning new stuff.  
